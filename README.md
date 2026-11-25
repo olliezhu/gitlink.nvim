@@ -1,6 +1,6 @@
 # gitlink.nvim
 
-Copy or open a permalink to the current line or selection, pinned to a commit SHA, on its repository's forge.
+Copy or open a link to the current line or selection, pinned to a commit SHA, on its repository's forge.
 
 ## Requirements
 
